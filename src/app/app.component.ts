@@ -8,6 +8,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'jenkinsAngular';
   addUser(user) {
-    console.llg('just a message');
+    console.log('just a message');
   }
 }
